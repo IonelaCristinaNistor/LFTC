@@ -1,0 +1,4 @@
+﻿  parser.c
+C:\Users\nisto\source\repos\Project6\Project6\parser.c(29,18): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+C:\Users\nisto\source\repos\Project6\Project6\parser.c(34,18): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+  Project6.vcxproj -> C:\Users\nisto\source\repos\Project6\x64\Debug\Project6.exe
